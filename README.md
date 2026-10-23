@@ -8,10 +8,13 @@ I am a student learning computer science and interested in tech.
 - Python(still learning)
 - Canva
 - Figma
+- html
+- css
 
 ## Projects
 - Calculator (Python)
 - Login UI design (Figma)
+- Flask and sqlite powered website (Python)
 
 ## Education
 - Veritas University Nigeria
